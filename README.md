@@ -47,4 +47,5 @@ Submit a pull request with a detailed description of your changes 🔄.
 
 
 License 📄:
+
 Career Cruise is open-source under the MIT License. See the LICENSE file for more details.
